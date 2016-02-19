@@ -16,3 +16,5 @@ My open source contributions
    - 2015-09-10 - [Cleanup zbwireshark and other improvements / bugfixes](https://github.com/riverloopsec/killerbee/pull/51)
 - [Vixen Lights](http://www.vixenlights.com/) - https://github.com/sall/vixen
    - 2011 May - Implemented initial timeline UI ([commits](https://github.com/sall/vixen/commits?author=JonathonReinhart))
+- [GitLab CI Multi Runner](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner)
+   - [Add support for cap_add, cap_drop, and devices in Docker executor](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/merge_requests/91)
