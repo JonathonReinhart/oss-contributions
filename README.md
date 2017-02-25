@@ -18,3 +18,5 @@ My open source contributions
    - 2011 May - Implemented initial timeline UI ([commits](https://github.com/sall/vixen/commits?author=JonathonReinhart))
 - [GitLab CI Multi Runner](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner)
    - [Add support for cap_add, cap_drop, and devices in Docker executor](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/merge_requests/91)
+   - [Add support for GIT_SUBMODULE_STRATEGY](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/merge_requests/443)
+   - [Reduce size of gitlab-runner-helper images](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/merge_requests/456)
