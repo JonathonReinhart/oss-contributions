@@ -20,3 +20,5 @@ My open source contributions
    - [Add support for cap_add, cap_drop, and devices in Docker executor](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/merge_requests/91)
    - [Add support for GIT_SUBMODULE_STRATEGY](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/merge_requests/443)
    - [Reduce size of gitlab-runner-helper images](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/merge_requests/456)
+- [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce)
+   - [Add runner version to /admin/runners view](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/8733)
