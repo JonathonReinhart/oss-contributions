@@ -2,9 +2,14 @@
 My open source contributions
 
 ## Collections
+- **GitHub** `JonathonReinhart`
+  - [Projects](https://github.com/JonathonReinhart?tab=repositories)
+  - [All Pull Requests](https://github.com/pulls?q=is:pr+author:JonathonReinhart)
+- **GitLab** `JonathonReinhart`
+  - [Projects](https://gitlab.com/users/JonathonReinhart/projects)
 
 - [JonathonReinhart on OpenHub](https://www.openhub.net/accounts/JonathonReinhart)
-- [GitHub pull requests by JonathonReinhart](https://github.com/pulls?q=is:pr+author:JonathonReinhart)
+
 
 
 ## Projects
