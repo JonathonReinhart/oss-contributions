@@ -7,12 +7,16 @@ My open source contributions
   - [All Pull Requests](https://github.com/pulls?q=is:pr+author:JonathonReinhart)
 - **GitLab** `JonathonReinhart`
   - [Projects](https://gitlab.com/users/JonathonReinhart/projects)
+- **PyPI**
+  - [`adman`](https://pypi.org/project/adman/)
+  - [`scuba`](https://pypi.org/project/scuba/)
+  - [`staticx`](https://pypi.org/project/staticx/)
+
 
 - [JonathonReinhart on OpenHub](https://www.openhub.net/accounts/JonathonReinhart)
 
 
-
-## Projects
+## Contributed to Projects
 
 - [cmocka](https://cmocka.org/)
    - 2015-09-08 - Fix [bug #41](https://open.cryptomilk.org/issues/41) "Multiple SIGSEGV are not handled by cmocka" ([fd4b80d4](https://git.cryptomilk.org/projects/cmocka.git/commit/?id=fd4b80d4504563f8b4d4f518b3122d17a669d1ed))
