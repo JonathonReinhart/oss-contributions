@@ -34,3 +34,5 @@ My open source contributions
    - [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce) - See [all merge requests](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests?state=all&author_username=JonathonReinhart)
       - [Add runner version to /admin/runners view](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/8733)
       - [Add support for `git push -o ci.skip`](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/15643) (includes [`gitlab-shell` update](https://gitlab.com/gitlab-org/gitlab-shell/merge_requests/166))
+   - [GitLab Pages](https://gitlab.com/gitlab-org/gitlab-pages) - See [all merge requests](https://gitlab.com/gitlab-org/gitlab-pages/merge_requests?state=all&author_username=JonathonReinhart)
+      - [Copy certs from SSL_CERT_DIR into chroot jail](https://gitlab.com/gitlab-org/gitlab-pages/-/merge_requests/291) (includes [`omnibus-gitlab` update](https://gitlab.com/gitlab-org/omnibus-gitlab/-/merge_requests/4289))
