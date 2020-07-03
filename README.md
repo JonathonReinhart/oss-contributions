@@ -26,7 +26,7 @@ My open source contributions
 - [Vixen Lights](http://www.vixenlights.com/) - https://github.com/sall/vixen
    - 2011 May - Implemented initial timeline UI ([commits](https://github.com/sall/vixen/commits?author=JonathonReinhart))
 
-- [GitLab](https://gitlab.com/gitlab-org) - See [all of my merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?state=all&author_username=JonathonReinhart)
+- [GitLab](https://gitlab.com/gitlab-org) - See [all of my merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?state=merged&author_username=JonathonReinhart)
    - [GitLab CI Runner](https://gitlab.com/gitlab-org/gitlab-runner)
       - [Add support for cap_add, cap_drop, and devices in Docker executor](https://gitlab.com/gitlab-org/gitlab-runner/merge_requests/91)
       - [Add support for GIT_SUBMODULE_STRATEGY](https://gitlab.com/gitlab-org/gitlab-runner/merge_requests/443)
