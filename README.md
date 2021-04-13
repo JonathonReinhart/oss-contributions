@@ -21,6 +21,9 @@ My open source contributions
 - [cmocka](https://cmocka.org/)
    - 2015-09-08 - Fix [bug #41](https://open.cryptomilk.org/issues/41) "Multiple SIGSEGV are not handled by cmocka" ([fd4b80d4](https://git.cryptomilk.org/projects/cmocka.git/commit/?id=fd4b80d4504563f8b4d4f518b3122d17a669d1ed))
 - [smtprelay](https://github.com/decke/smtprelay) - [All pull requests](https://github.com/decke/smtprelay/pulls?q=is%3Apr+author%3AJonathonReinhart+is%3Amerged)
+- [Linux kernel](https://github.com/torvalds/linux)
+  - 2021-04-12 - [`31c4d2f160eb`](https://git.kernel.org/netdev/net-next/c/31c4d2f160eb): `net: Ensure net namespace isolation of sysctls`
+  - 2021-04-12 - [`2671fa4dc010`](https://git.kernel.org/netdev/net-next/c/2671fa4dc010): `netfilter: conntrack: Make global sysctls readonly in non-init netns`
 - [KillerBee](https://github.com/riverloopsec/killerbee)
    - 2015-08-03 - [PyUSB 1.0.0b2 API fixes](https://github.com/riverloopsec/killerbee/pull/47)
    - 2015-09-10 - [Cleanup zbwireshark and other improvements / bugfixes](https://github.com/riverloopsec/killerbee/pull/51)
